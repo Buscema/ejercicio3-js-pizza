@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Estilos para el encabezado */
+h1 {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: white;
+    margin: 0;
+}
+
+/* Estilos para el formulario */
+.buscador {
+    text-align: center;
+    margin: 20px auto;
+}
+
+/* Estilos para el botón */
+#buscarBtn {
+    margin-top: 10px;
+    display: block; /* Hace que el botón ocupe todo el ancho disponible */
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#buscarBtn:hover {
+    background-color: #555;
+}
